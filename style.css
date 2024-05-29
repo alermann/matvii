@@ -1,0 +1,206 @@
+body {
+    /* padding: 0;
+    margin: 0; */
+    font-family: sans-serif;
+    background-color: blanchedalmond;
+}
+
+.class{
+    /* Rectangle 1 */
+
+/* position: absolute; */
+width:700px;
+height: 430px;
+margin-left: 20%;
+/* margin-left: 0 auto; */
+/* left: 0px;
+top: 0px; */
+
+/* background: url(врьсуобауабгакрушэуелмишадсруйшащшмй.png); */
+
+}
+
+.class_class{
+    /* Магазин KVC */
+
+position: absolute;
+width: 309px;
+height: 58px;
+margin-left: 37%;
+top: 150px;
+
+font-family: 'Inter';
+font-style: normal;
+
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+
+color: #000000;
+
+
+}
+
+.cl{
+    margin-top: 30px;
+  
+    
+}
+
+.Q{
+    width: 400px;
+    background-color: rgb(255, 0, 0);
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+}
+
+.a{
+    
+}
+
+.t{
+   text-align: center; 
+}
+
+.wp{
+    /* Rectangle 8 */
+
+/* position: absolute; */
+width: 180px;
+height: 180px;
+
+/* left: 56px;
+top: 3438px; */
+transition: 1s;
+/* background: url(Й); */
+border-radius: 108.5px;
+
+    
+}
+.wp:hover{
+    width: 200px;
+    height: 200px;
+    transition: 1s;
+}
+
+footer:hover{
+    background-color: rgb(194, 112, 112);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 30px 30px 20px 45px;
+}
+
+.footer-text:hover{
+    margin-right: 30px;
+    color: rgb(61, 55, 55);
+}
+
+footer{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    /* padding: 30px; */
+    justify-content: flex-start;
+    align-items: center;
+    padding: 30px 60px 20px 45px;
+}
+
+.Q:hover{
+    background-color: blue;
+    color: aqua;
+}
+
+.t:hover{
+    background-color: #2adede;
+    color: white;
+    font-size: 25px;
+    transition: 1s ease-in;
+}
+
+.class_class:hover{
+    font-size: 55px;
+    transition: 1s ease-in;
+    width: 500px;
+
+}
+
+.u{
+    margin-left: 100px;
+}
+
+.name5{
+    display: flex;
+    justify-content: space-around;
+    /* width: 100%; */
+}
+
+.as{
+    background-color: blue;
+    /* width: 500px; */
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+    color: beige;
+}
+nav{
+    margin-top:50px;
+    height: 40px;
+    /* font-family: 'Verdenta';
+font-style: normal; */
+/* font-weight: 400; */
+font-size: 20px;
+line-height: 23px;
+display: flex;
+justify-content: space-around;
+padding-top: 23px;
+padding-left: 10%;
+padding-right: 10%;
+}
+nav a:hover{
+    font-size: 24px;
+    cursor: pointer;
+    /*  */
+}
+.br{
+    padding-top: 20px;
+    text-align: center;
+}
+.name1{
+    background-color: #ffffff;
+}
+.ross{
+    display: flex;
+}
+.ross2{
+    margin: 60px 60px;
+}
+img:hover{
+opacity: 0.8;
+
+}
+.qq:hover, .wp:hover{
+    box-shadow: 20px 25px 25px red;
+}
+.name2{
+    padding: 20px;
+}
+.name3{
+    text-align: center;
+    width: 95%;
+    background-color: #ffffff;
+    padding: 20px;
+}
+.tetra{
+    padding: 5px 20px;
+}
+.work{
+    margin-left: 10%;
+}
+.footer-logo{
+    /* margin: 500px; */
+}
+/* main{
+    padding: 20px;
+} */
